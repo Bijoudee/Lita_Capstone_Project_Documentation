@@ -51,8 +51,8 @@ This repository contains my capstone project focusing on Sales Performance Analy
 
 ### Upcoming Implementation
 ---
-- SQL Implementation (coming soon)
-- Power Bi Dashboard (coming soon)
+- SQL Implementation (In Progress)
+- Power Bi Dashboard (In Progress)
 
 
  
